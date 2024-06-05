@@ -14,5 +14,5 @@ In this project, we will create a GitHub repository and your local repository. W
 - README.md
 
 ### Credits
-No
+No credit
 
